@@ -1,0 +1,15 @@
+{
+  "name": "image-resize-service",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SparklingFun",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jimp": "^0.16.1"
+  }
+}
